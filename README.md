@@ -1,4 +1,4 @@
-# This is an interpreted programing language made using Go
+# Interpreted Programing Language made using Go
 
 It was done by following the book writing a compiler in go 1.2 by Thorsten Ball
 
